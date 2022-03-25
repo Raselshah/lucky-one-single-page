@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "price": 50000,
+      "picture": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "name": "Royal Enfield v1"
+    },
+    {
+      "id": 1,
+      "price": 52000,
+      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Royal Enfield v2"
+    },
+    {
+      "id": 2,
+      "price": 62000,
+      "picture": "https://images.pexels.com/photos/2393835/pexels-photo-2393835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Royal Enfield v3"
+    },
+    {
+      "id": 3,
+      "price": 45000,
+      "picture": "https://images.pexels.com/photos/2317519/pexels-photo-2317519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Honda CBR"
+    },
+    {
+      "id": 4,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 5,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 6,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 7,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 8,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 9,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 10,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    },
+    {
+      "id": 11,
+      "price": 66000,
+      "picture": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bike Race"
+    }
+
+  ]
