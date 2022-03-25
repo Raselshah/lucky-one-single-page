@@ -10,16 +10,24 @@ const LoadBikes = () => {
       .then((data) => setBike(data));
   }, []);
 
+  const shoppingNow = (name) => {
+    console.log(name);
+  };
+
   //   const { price, picture, name } = bike;
   return (
     <div className="cards">
       <div className="bikes">
         {bikes.map((bike) => (
-          <SetBikes bike={bike} key={bike.id}></SetBikes>
+          <SetBikes
+            shoppingNow={shoppingNow}
+            bike={bike}
+            key={bike.id}
+          ></SetBikes>
         ))}
       </div>
       <div className="shopping-cart">
-        <h2>hehe</h2>
+        <h2>hi</h2>
       </div>
     </div>
   );

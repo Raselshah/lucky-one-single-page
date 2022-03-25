@@ -25,7 +25,19 @@
     position: absolute;
     bottom: 10px;
     margin: auto;
+    cursor: pointer;
 }
 .btn-add p{
     font-size: 18px;
+    color: #fff;
+}
+.btn-size{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 10px;
 }
