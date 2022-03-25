@@ -1,9 +1,26 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import SetBikes from "../SetBikes/SetBikes";
+import "./LoadBikes.css";
 
 const LoadBikes = () => {
+  const [bikes, setBike] = useState([]);
+  useEffect(() => {
+    fetch("FakeData.json")
+      .then((res) => res.json())
+      .then((data) => setBike(data));
+  }, []);
+
+  //   const { price, picture, name } = bike;
   return (
-    <div>
-      <h2>Load</h2>
+    <div className="cards">
+      <div className="bikes">
+        {bikes.map((bike) => (
+          <SetBikes bike={bike} key={bike.id}></SetBikes>
+        ))}
+      </div>
+      <div className="shopping-cart">
+        <h2>hehe</h2>
+      </div>
     </div>
   );
 };

@@ -1,0 +1,31 @@
+.card{
+    border: 1px solid lightskyblue;
+    border-top-left-radius: 50px;
+    border-right: 5px solid lightskyblue;
+    position: relative;
+}
+.card-info{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart-details h3{
+    padding-bottom: 70px;
+}
+.photo img{
+    width: 100%;
+    border-top-left-radius: 50px;
+}
+.btn-add{
+    padding: 0px 25px;
+    border-radius: 5px;
+    border: none;
+    background-color: lightskyblue;
+    position: absolute;
+    bottom: 10px;
+    margin: auto;
+}
+.btn-add p{
+    font-size: 18px;
+}

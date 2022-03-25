@@ -1,0 +1,21 @@
+.cards{
+    display: grid;
+      grid-template-columns: 4fr 1fr;
+  }
+  .bikes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+  }
+  @media screen and (max-width: 700px) {
+    .cards{
+        display: grid;
+          grid-template-columns: 1fr;
+      }
+      .bikes{
+        display: grid;
+        grid-template-columns:  1fr;
+        gap: 50px;
+      }
+      
+  }
