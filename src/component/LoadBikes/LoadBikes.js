@@ -1,20 +1,22 @@
 import React, { useEffect, useState } from "react";
+import BIkeInfo from "../BikeInfo/BIkeInfo";
 import SetBikes from "../SetBikes/SetBikes";
 import "./LoadBikes.css";
 
 const LoadBikes = () => {
   const [bikes, setBike] = useState([]);
+  const [addCart, setAddCart] = useState([]);
   useEffect(() => {
     fetch("FakeData.json")
       .then((res) => res.json())
       .then((data) => setBike(data));
   }, []);
 
-  const shoppingNow = (name) => {
-    console.log(name);
+  const shoppingNow = (bike) => {
+    const newBike = [...addCart, bike];
+    setAddCart(newBike);
   };
 
-  //   const { price, picture, name } = bike;
   return (
     <div className="cards">
       <div className="bikes">
@@ -27,7 +29,9 @@ const LoadBikes = () => {
         ))}
       </div>
       <div className="shopping-cart">
-        <h2>hi</h2>
+        {addCart.map((singleBike) => (
+          <BIkeInfo key={singleBike.id} singleBike={singleBike}></BIkeInfo>
+        ))}
       </div>
     </div>
   );

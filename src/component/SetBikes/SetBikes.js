@@ -15,7 +15,7 @@ const SetBikes = ({ bike, shoppingNow }) => {
           <h2>{name}</h2>
           <h3>Price : ${price}</h3>
         </div>
-        <button onClick={() => shoppingNow(name)} className="btn-add">
+        <button onClick={() => shoppingNow(bike)} className="btn-add">
           <div className="btn-size">
             <p>Add to Buy</p>
             <RiShoppingCart2Line className="icon" />
