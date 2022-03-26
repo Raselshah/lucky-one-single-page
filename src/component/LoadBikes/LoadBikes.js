@@ -32,6 +32,10 @@ const LoadBikes = () => {
         {addCart.map((singleBike) => (
           <BIkeInfo key={singleBike.id} singleBike={singleBike}></BIkeInfo>
         ))}
+        <div className="lucky-bike-btn">
+          <button>Delete selected</button>
+          <button>Your lucky bike</button>
+        </div>
       </div>
     </div>
   );

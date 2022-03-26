@@ -2,14 +2,13 @@ import React from "react";
 import "./BikeInfo.css";
 
 const BIkeInfo = ({ singleBike }) => {
-  console.log(singleBike);
   const { name, picture } = singleBike;
   return (
-    <div>
+    <div className="shopping-card">
       <div className="photos">
         <img src={picture} alt="" />
       </div>
-      <h2>{name}</h2>
+      <h3>{name}</h3>
     </div>
   );
 };

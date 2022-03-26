@@ -7,6 +7,32 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 50px;
   }
+  .shopping-cart{
+    border-left: 5px solid lightskyblue;
+    box-shadow: 8px 8px 8px lightskyblue;
+    background-color: lightgray;
+    height: 60vh;
+    position: sticky;
+    top: 5px;
+    margin-left: 10px;
+  }
+  .lucky-bike-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+    gap: 10px;
+  }
+  .lucky-bike-btn button{
+    border: none;
+    font-size: 16px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: #fff;
+    cursor: pointer;
+  }
   @media screen and (max-width: 700px) {
     .cards{
         display: grid;
