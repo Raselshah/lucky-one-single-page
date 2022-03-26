@@ -14,62 +14,62 @@
     {
       "id": 2,
       "price": 62000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Royal Enfield v3"
+      "picture": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Dovidson"
     },
     {
       "id": 3,
       "price": 45000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Honda CBR"
+      "picture": "https://images.unsplash.com/photo-1558981033-0f0309284409?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Harly Dovidson"
     },
     {
       "id": 4,
       "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "picture": "https://images.unsplash.com/photo-1558981033-f5e2ddd9c57e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Kung fu bike"
     },
     {
       "id": 5,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 67000,
+      "picture": "https://images.unsplash.com/photo-1552155634-312b6355173b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=822&q=80",
+      "name": "Yamaha R15"
     },
     {
       "id": 6,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 26000,
+      "picture": "https://images.unsplash.com/photo-1558978806-73073843b15e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Dorido"
     },
     {
       "id": 7,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 76000,
+      "picture": "https://images.unsplash.com/photo-1558980663-3685c1d673c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Harly Davidson v2"
     },
     {
       "id": 8,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 50000,
+      "picture": "https://images.unsplash.com/photo-1575329603727-b4abb9318563?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Yamaha"
     },
     {
       "id": 9,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 62000,
+      "picture": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "KTM"
     },
     {
       "id": 10,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 55000,
+      "picture": "https://images.unsplash.com/photo-1542683088-abb3da334598?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=918&q=80",
+      "name": "Honda"
     },
     {
       "id": 11,
-      "price": 66000,
-      "picture": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Bike Race"
+      "price": 68000,
+      "picture": "https://images.unsplash.com/photo-1547549082-6bc09f2049ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "name": "Yamaha SG"
     }
 
   ]
